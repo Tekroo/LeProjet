@@ -71,7 +71,7 @@ header nav ul li a{
     height: 500px;
     background: linear-gradient(
         rgba(0,0,0,0.5),rgba(0,0,0,0.5)
-    ), url('images/Kingsman_tailor_shop_display_window.jpg') center; 
+    ), url('Kingsman_tailor_shop_display_window.jpg') center; 
     text-align: center;
     text-transform: uppercase;
     margin-bottom: 50px;
